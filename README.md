@@ -45,7 +45,7 @@ A comprehensive web-based platform for managing college clubs and events. Built 
 
    ```bash
    git clone https://github.com/AMSearth/ClubManager.git
-   cd ClubEventManager
+   cd ClubManager
    ```
 
 2. **Configure database**
